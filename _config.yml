@@ -1,3 +1,4 @@
+layout_spectrum: 0.9575973066966981
 typography_spectrum: 0.48612250154837966
 color:
   brandStrength: 0.9079204897861928
@@ -5,12 +6,9 @@ color:
   saturation: 0.14718389557674527
   rhythmicContrast: 0.7160347814206034
   brandColors:
-    - '#D5D1C9'
-    - '#1A0B0A'
-    - '#768F89'
-    - '#4A5652'
-    - '#322C2C'
-layout_spectrum: 0.9575973066966981
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: For the Love of Christ
-title: In him I am found
-description: '"Follow me, and I will make you fishers of men."'
